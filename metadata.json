@@ -1,0 +1,6 @@
+{
+  "name": "New vs Used Vehicle Cost Analyzer",
+  "description": "An Android-first mobile application to compare the true total cost of ownership (TCO) between new and used vehicles in India, featuring advanced depreciation models, inflation, loan EMIs, and resale predictions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
